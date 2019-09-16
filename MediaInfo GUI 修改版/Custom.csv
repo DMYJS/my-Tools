@@ -1,0 +1,28 @@
+General;"File Name.................: %FileName%\r\nDuration..................: %Duration/String3% (HH:MM:SS.FFF)
+File Size.................: %FileSize/String%\r\n"
+Video;"Video Codec...............: %Format% %Format_Profile%\r\nBitDepth..................: %BitDepth/String%
+Frame Rate................: %FrameRate% fps
+Bit Rate..................: %BitRate/String%
+Resolution................: %Width% x %Height% (%DisplayAspectRatio/String%)\r\n"
+Audio;Audio#%StreamKindPos%..................:［%Language/String4%］%BitRate/String% %Channel(s)/String% %Format_Commercial% %SamplingRate/String%\r\n
+Text;Subtitle#%StreamKindPos%...............:［%Language/String2%］%Title%\r\n
+Chapters
+File_Begin
+File_End;Source....................: WEB-DL\r\nUploader..................: xiaomengya@CHDWEB
+Page_Begin
+Page_Middle;Uploader………………错错错
+Page_End
+General_Begin
+General_End
+Video_Begin
+Video_Middle
+Video_End
+Audio_Begin
+Audio_Middle
+Audio_End
+Text_Begin
+Text_Middle
+Text_End
+Chapters_Begin
+Chapters_Middle
+Chapters_End
